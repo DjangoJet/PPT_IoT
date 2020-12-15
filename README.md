@@ -12,6 +12,8 @@ Do stworzenia serwera HTTP został użyty framework `flask`
 
 Jako broker do protokołu MQTT skorzystałem z publicznie dostępnego pod adresem **test.mosquitto.org**
 
+Link do filmu: https://youtu.be/qMx4Egvvbvg
+
 # Wnioski
 
 - Przy pracy z maszynami wirtualnymi przydaje się dysk współdzielony albo sposób na przesyłanie plików miedzy maszynami (taki jak samba). Ja korzystałem z polecenia `scp` które przesyła pliki przez protokół `ssh`.
